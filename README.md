@@ -9,3 +9,6 @@ Argon https://www.creative-tim.com/product/nextjs-argon-dashboard  cool dashboar
 
 ## Landing pages
 https://github.com/jkytoela/next-startd
+
+##cco liscence 
+https://github.com/Startup-Landing/Startup-Landing  great guys
